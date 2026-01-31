@@ -1,0 +1,1 @@
+<h3>GitHub offers robust tools for collaboration, primarily centered around its version control system (Git), branching model, issues, and pull requests. These features enable multiple developers to work on the same codebase efficiently, track changes, and review contributions without conflicts</h3>
