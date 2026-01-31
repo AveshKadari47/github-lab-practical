@@ -1,0 +1,8 @@
+<h3>GitHub was created by four developers:</h3>
+
+Tom Preston-Werner
+Chris Wanstrath
+PJ Hyett
+Scott Chacon
+
+And was Launched in  April 10, 2008
