@@ -1,0 +1,6 @@
+<h2>GitHub is a platform where people store, track, and collaborate on code.</h2>
+<h3>Think of it as:</h3>
+
+1.Google Drive for code
+2.A time machine for your project
+3.A collaboration hub for developers
